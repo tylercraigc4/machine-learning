@@ -1,3 +1,5 @@
 /.DS_Store
 /CSE450.code-workspace
 /probability_cheatsheet.pdf
+.vscode/
+.idea/
